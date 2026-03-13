@@ -6,7 +6,7 @@ This repository contains materials for the **Snowflake Spring Forward AI Project
 
 - **Snowflake Academia – Spring Project in an Hour.pdf**
 
-This document walks through the process of building a **Snowflake Intelligence AI agent** that can answer questions by reasoning over both **structured healthcare data** and **unstructured biomedical research data**. :contentReference[oaicite:0]{index=0}
+This document walks through the process of building a **Snowflake Intelligence AI agent** that can answer questions by reasoning over both **structured healthcare data** and **unstructured biomedical research data**.
 
 ## Project Overview
 
@@ -44,9 +44,3 @@ This repository serves as a reference for the **Snowflake AI agent tutorial proj
 - Large language models  
 - AI agents  
 - Conversational analytics
-
----
-
-## Author
-
-**Dylan Matthews**
